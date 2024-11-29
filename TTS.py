@@ -1,6 +1,6 @@
 import pyttsx3
 
 engine = pyttsx3.init()
-engine.say("Hello User, what are you doing?....... Go to study or you'll fail in exam")
+engine.say("Hello, Amit Kumar Thakur, You doing well?")
 engine.runAndWait()
 engine.stop()
